@@ -8,14 +8,14 @@
   <body>
     <h1>Send a text message using the Vonage Messages API</h1>
 
-    #if(status):
-      <p> Status of the last SMS: #(status)</p>
+    #if(messageId):
+      <p> Successful SMS ID: #(messageId)</p>
     #endif
 
     <form action="/send" method="post">
         <p>
         <label>Phone number E.g. 447000000000</label><br>
-        <input type="text" name="to" place>
+        <input type="text" name="to">
         </p>
 
         <p>
