@@ -1,8 +1,8 @@
-# Swift Vonage Message API with Vapor
+# How to send SMS Messages with Swift and Vapor using Async/Await
 
 <img src="https://developer.nexmo.com/assets/images/Vonage_Nexmo.svg" height="48px" alt="Nexmo is now known as Vonage" />
 
-This is a Swift project that uses [Vapor](vapor.codes) to create a HTTP server for the [Vonage Messages API](https://developer.nexmo.com/messages/overview). This allows you to send an SMS message to a phone number. This [blog](LINK) shows the project in use with a web page to allow you to test the server.
+This is a Swift project that uses [Vapor](vapor.codes) to create a HTTP server for the [Vonage Messages API](https://developer.nexmo.com/messages/overview). This allows you to send an SMS message to a phone number. This [blog](https://learn.vonage.com/blog/2021/11/24/how-to-send-sms-messages-with-swift-and-vapor-using-async-await/) shows the project in use with a web page to allow you to test the server.
 
 ## Welcome to Vonage
 
